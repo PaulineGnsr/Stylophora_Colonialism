@@ -1,0 +1,130 @@
+stylophoran_taxa	year	origin	collection	authors	national authors
+Ateleocystites_huxleyi	1858	Canada	Canada	Billings	local
+Anomalocystites_cornutus	1859	USA	USA	Hall	local
+Placocystites_forbesianus	1869	UK	UK	De Koninck	outside
+Anatifopsis_acuta	1872	Czech Republic	Czech Republic	Barrande	local
+Anatifopsis_bohemica	1872	Czech Republic	Czech Republic	Barrande	local
+Anatifopsis_longa	1872	Czech Republic	Czech Republic	Barrande	local
+Balanocystites_primus	1872	Czech Republic	Czech Republic	Barrande	local
+Enoploura_balanoides	1872	USA	USA	Meek	local
+Protocystites_menevensis	1872	UK	UK	Hicks	local
+Anatifopsis_ensifer	1887	Czech Republic	Czech Republic	Barrande	local
+Barrandeocarpus_bohemicus	1887	Czech Republic	Czech Republic	Barrande	local
+Lagynocystis_pyramidalis	1887	Czech Republic	Czech Republic	Barrande	local
+Mitrocystella_incipiens	1887	Czech Republic	Czech Republic	Barrande	local
+Mitrocystites_mitra	1887	Czech Republic	Czech Republic	Barrande	local
+Ceratocystis_perneri	1901	Czech Republic	Czech Republic	Jaekel	outside
+Promitrocystites_barrandei	1901	Czech Republic	Czech Republic	Jaekel	outside
+Anatifopsis_balclatchiensis	1907	UK	UK	Reed	local
+Cothurnocystis_elizae	1913	UK	UK	Bather	local
+Scotiaecystis_curvata	1913	UK	UK	Bather	local
+Placocystella_africana	1925	South Africa	UK	Reed	outside
+Enoploura_punctata	1932	USA	USA	Bassler	local
+Rhenocystis_latipedunculata	1932	Germany	Germany	Dehm	local
+Mitrocystites_Qt_styloideus	1934	Germany	Germany	Dehm	local
+Anatifopsis_escandei	1935	France	France	Thoral	local
+Anatifopsis_trapeziiformis	1935	France	France	Thoral	local
+Arauricystis_primaeva	1935	France	France	Thoral	local
+Peltocystis_cornuta	1935	France	France	Thoral	local
+Phyllocystis_blayaci	1935	France	France	Thoral	local
+Phyllocystis_crassimarginata	1935	France	France	Thoral	local
+Aspidocarpus_riadanensis	1937	France	France	Chauvel	local
+Anatifopsis_barrandei	1941	Czech Republic	Czech Republic	Chauvel	outside
+Anatifopsis_minuta	1941	France	France	Chauvel	local
+Anatifopsis_papillata	1943	USA	USA	Bassler	local
+Enoploura_popei	1952	USA	USA	Caster	local
+Paranacystis_petrii	1954	Brazil	Brazil	Caster	outside
+Placocystella_langei	1954	Brazil	Brazil	Caster	outside
+Anatifopsis_cocaban	1960	South Korea	Japan	Kobayashi	outside
+Taebaekocystis_truncata	1960	South Korea	Japan	Kobayashi	outside
+Victoriacystis_wilkinsi	1960	Australia	Australia	Gill and Caster	local
+Chinianocarpos_thorali	1961	France	France	Ubaghs	outside
+Dalejocystis_casteri	1963	Czech Republic	Czech Republic	Prokop	local
+Nevadaecystis_americana	1963	USA	USA	Ubaghs	outside
+Chauvelicystis_ubaghsi	1966	Morocco	France	Chauvel	outside
+Bohemiaecystis_bouceki	1968	Czech Republic	Czech Republic	Caster	outside
+Placocystella_flemingi	1968	New Zealand	New Zealand	Caster and Gill	outside
+Amygdalotheca_griffei	1970	France	France	Ubaghs	outside
+Bohemiaecystis_griffei	1970	France	France	Ubaghs	outside
+Chauvelicystis_spinosa	1970	France	France	Ubaghs	outside
+Galliaecystis_lignieresi	1970	France	France	Ubaghs	outside
+Persiacarpos_Qn_fellinensis	1970	France	France	Ubaghs	outside
+Procothurnocystis_courtessolei	1970	France	France	Ubaghs	outside
+Bohemiaecystis_zagoraensis	1971	Morocco	France	Chauvel	outside
+Reticulocarpos_hanusi	1972	Czech Republic	Czech Republic	Jefferies and Prokop	local
+Domfrontia_pissotensis	1977	France	France	Chauvel and Nion	local
+Anatifopsis_spinosa	1979	Czech Republic	Germany	Ubaghs	outside
+Aspidocarpus_bohemicus	1979	Czech Republic	Germany	Ubaghs	outside
+Barrandeocarpus_jaekeli	1979	Czech Republic	Germany	Ubaghs	outside
+Diamphidiocystis_drepanon	1979	USA	USA	Kolata and Guensburg	local
+Placocystella_garratti	1981	Australia	Australia	Philip	local
+Willmanocystis_denticulata	1982	USA	USA	Kolata and Jollie	local
+Placocystella_buretti	1983	Australia	Australia	Caster	outside
+Proscotiaecystis_melchiori	1983	France	France	Ubaghs	outside
+Phyllocystis_Qt_jingxiensis	1985	China	China	Han and Chen	local
+Milonicystis_kerfornei	1986	France	France	Chauvel	local
+Archaeocothurnus_bifida	1988	USA	USA	Ubaghs	outside
+Scotiaecystis_collapsa	1988	UK	UK	Cripps	local
+Barrandeocarpus_norvegicus	1989	Norway	UK	Craske and Jefferies	outside
+Galliaecystis_ubaghsi	1989	France	France	Cripps	outside
+Hanusia_obtusa	1989	Czech Republic	Czech Republic	Cripps	outside
+Hanusia_prilepensis	1989	Czech Republic	Czech Republic	Cripps	outside
+Hanusia_sarkensis	1989	Czech Republic	Czech Republic	Cripps	outside
+Prokopicystis_mergli	1989	Czech Republic	Czech Republic	Cripps	outside
+Anatifopsis_ancora	1990	Spain	Spain	Dominguez and Gutierrez-Marco	local
+Aspidocarpus_discoidalis	1990	Morocco	UK	Cripps	outside
+Babinocystis_dilabida	1990	Russia	Russia	Rozhnov	local
+Mongolocarpos_minzhini	1990	Mongolia	Russia	Rozhnov	outside
+Jaekelocarpus_oklahomaensis	1991	USA	USA	Kolata et al	local
+Kierocystis_inserta	1991	USA	USA	Parsley	local
+Kopficystis_kirkfieldi	1991	USA	USA	Parsley	local
+Nanocarpus_dolambii	1991	France	France	Ubaghs	outside
+Chauvelicystis_vizcainoi	1992	France	France	Daley	outside
+Prochauvelicystis_semispinosa	1992	UK	UK	Daley	local
+Procothurnocystis_owensi	1992	UK	UK	Woods and Jefferies	local
+Arauricystis_occitana	1994	France	France	Ubaghs	outside
+Eumitrocystella_savilli	1994	Morocco	UK	Beisswenger	outside
+Lyricocarpus_courtessolei	1994	France	France	Ubaghs	outside
+Ovocarpus_moncereti	1994	France	France	Ubaghs	outside
+Trigonocarpus_singularis	1994	France	France	Ubaghs	outside
+Occultocystis_koeneni	1995	Argentina	Germany	Haude	outside
+Yachalicystis_triangularis	1995	Argentina	Germany	Haude	outside
+Thoralicarpus_jefferiesi	1996	Spain	Spain	Gil Cid et al	local
+Acuticarpus_delticus	1997	USA	USA	Sumrall et al	local
+Acuticarpus_Qn_republicensis	1997	USA	USA	Sumrall et al	local
+Archaeocothurnus_goshutensis	1997	USA	USA	Sumrall et al	local
+Bokkeveldia_oosthuizeni	1997	South Africa	South Africa	Ruta and Theron	local
+Paranacystis_simoneae	1997	South Africa	South Africa	Ruta	outside
+Vizcainocarpus_dentiger	1997	France	France	Ruta	outside
+Lobocarpus_vizcainoi	1998	France	France	Ubaghs	outside
+Adoketocarpus_acheronticus	1999	Australia	Australia	Ruta and Jell	local
+Adoketocarpus_janeae	1999	Australia	Australia	Ruta and Jell	local
+Ampelocarpus_landeyranensis	1999	France	France	Lefebvre and Vizcaino	local
+Bohemiaecystis_ubaghsi	1999	France	France	Lefebvre and Vizcaino	local
+Domfrontia_milnerorum	1999	Morocco	UK	Ruta	outside
+Drepanocarpos_australis	1999	Australia	Australia	Smith and Jell	local
+Ponticulocarpus_robisoni	1999	USA	USA	Sumrall and Sprinkle	local
+Protocytidium_elliottae	1999	Australia	Australia	Ruta and Jell	local
+Pseudovictoriacystis_problematica	1999	Australia	Australia	Ruta and Jell	local
+Thoralicarpus_guilloui	1999	France	France	Lefebvre and Vizcaino	local
+Victoriacystis_holmesorum	1999	Australia	Australia	Ruta and Jell	local
+Vizcainocarpus_rutai	2000	UK	UK	Lefebvre	outside
+Flabellicarpus_rushtoni	2002	UK	UK	Marti Mus	outside
+Sokkaejaecystis_serrata	2005	South Korea	South Korea	Lee et al	local
+Vizcainocarpus_Qt_naimae	2005	Morocco	Spain	Parsley and Gutierre	outside
+Phyllocystis_Qn_salairica	2008	Russia	Russia	Dubatulova	local
+Procothurnocystis_prolixora	2009	USA	USA	Sumrall et al	local
+Anatifopsis_fillmorensis	2012	USA	USA	Sumrall et al	local
+Anatifopsis_ninemilensis	2012	USA	USA	Sumrall et al	local
+Nanocarpus_Qt_guoleensis	2013	China	China	Chen and Han	local
+Persiacarpos_jefferiesi	2017	Iran	Russia	Rozhnov and Parsley	outside
+Perikefalea_Qn_cybeleae	2021	Canada	Canada	Lefebvre and Ausich	outside
+Perikefalea_racheboeufi	2021	Bolivia	Bolivia	Lefebvre and Ausich	outside
+Arauricystis_clariondi	2022	Morocco	France	Lefebvre et al	outside
+Bohemiaecystis_chouberti	2022	Morocco	France	Lefebvre et al	outside
+Destombesicarpus_budili	2022	Czech Republic	Czech Republic	Lefebvre et al	local
+Destombesicarpus_izegguirenensis	2022	Morocco	France	Lefebvre et al	outside
+Diamphidiocystis_regnaulti	2022	France	France	Lefebvre et al	local
+Milonicystis_reboulorum	2022	Morocco	France	Lefebvre et al	outside
+Thoralicarpus_bounemrouensis	2022	Morocco	France	Lefebvre et al	outside
+Thoralicarpus_prokopi	2022	Czech Republic	Czech Republic	Lefebvre et al	local
