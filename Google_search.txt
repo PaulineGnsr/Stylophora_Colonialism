@@ -1,4 +1,4 @@
-	Scientific_colonialism	Decolonizing_science	Parachute_science
+	"Scientific colonialism"	"Decolonizing science"	"Parachute science"
 1960	11	0	0
 1965	20	0	0
 1970	20	0	0
