@@ -18,13 +18,13 @@ stylo <- read.table("stylophoran material.txt", sep="\t", row.names = 1, h=T, st
 
 ## Google search ####
 google.scholar <- read.table("Google_search.txt", sep="\t", row.names = 1, h=T, stringsAsFactors = TRUE)
-# jpeg(filename = "Fig1_Google_search.jpeg", width=12, height=6, units="cm", res=300, pointsize = 8)
+svg(filename = "Fig1_Google_search_24-09-02.svg", width=9, height=3, pointsize = 12)#res=300, units="cm",
 barplot(t(google.scholar), beside = TRUE, col=viridis(3),
         ylim=c(0,700), names.arg = rownames(google.scholar),
         ylab="Number of publications", xlab="Time",
-        main="Evolution of the use of terms (Google Scholar)",
+        main="Evolution of the use of terms from Google Scholar search engine",
         legend.text = TRUE, args.legend = list(bty="n", x="topleft", ncol=1))
-# dev.off()
+dev.off()
 
 ## Time-dependant plot
 # svg(filename = "Fig2A_barplot local.svg", width=7, height=1.75, pointsize = 8)
@@ -32,6 +32,28 @@ hist(stylo$year, right=FALSE,
      xlab="", ylab="Number of described holotypes", main="",
      breaks=seq(1850,2025,25), xlim=range(1850,2050), ylim=range(0,60), labels = TRUE)
 # dev.off()
+
+
+## Mapping ####
+## Prepare the layout
+maptheme <-
+  theme(axis.text = element_blank()) +
+  theme(axis.ticks = element_blank()) +
+  theme(axis.title = element_blank()) +
+  theme(legend.position = "bottom",
+        legend.title=element_text(size = 8),
+        legend.text=element_text(size = 8),
+        legend.key.height= unit(0.5, 'cm'),
+        legend.key.width= unit(0.5, 'cm')
+  ) +
+  theme(panel.grid = element_blank()) +
+  theme(panel.background = element_blank()) +
+  theme(plot.margin = unit(c(0, 0, 0.5, 0), 'cm'))
+country_shapes <- geom_polygon(data = map_data('world'),
+                               aes(x = long, y = lat, group = group),
+                               fill = "white", color = "grey80",
+                               linewidth = 0.15)
+mapcoords <- ggplot2::coord_fixed(xlim = c(-150, 180), ylim = c(-55, 80))
 
 
 ## Local co-authoring ####
@@ -70,28 +92,6 @@ plot.natoritime <- lapply(stylo.national.data, plot.national)
 plot.natoritime.list <- ggpubr::ggarrange(plotlist = plot.natoritime, ncol = 1, nrow = 4)
 # ggsave(filename = "Fig2B_plot natoritime.svg", plot = plot.natoritime.list, 
 #        device = "svg", height = 13, units = "cm")
-
-
-## Mapping ####
-  ## Prepare the layout
-maptheme <-
-  theme(axis.text = element_blank()) +
-  theme(axis.ticks = element_blank()) +
-  theme(axis.title = element_blank()) +
-  theme(legend.position = "bottom",
-        legend.title=element_text(size = 8),
-        legend.text=element_text(size = 8),
-        legend.key.height= unit(0.5, 'cm'),
-        legend.key.width= unit(0.5, 'cm')
-  ) +
-  theme(panel.grid = element_blank()) +
-  theme(panel.background = element_blank()) +
-  theme(plot.margin = unit(c(0, 0, 0.5, 0), 'cm'))
-country_shapes <- geom_polygon(data = map_data('world'),
-                               aes(x = long, y = lat, group = group),
-                               fill = "white", color = "grey80",
-                               linewidth = 0.15)
-mapcoords <- ggplot2::coord_fixed(xlim = c(-150, 180), ylim = c(-55, 80))
 
 
   ## location and origin of holotypes
